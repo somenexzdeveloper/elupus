@@ -1,1 +1,1 @@
-local key1 = "testkey"
+key1 = "test"
