@@ -1,3 +1,5 @@
-key1 = "Dawid"
-key2 = "test"
-key2 = "pat"
+key1 = "nexz-KWHC-UAW7-URWV-3EN4-KUXU-RL94-PRUK"
+key2 = "nexz-JUWU-VLAM-EU9P-PHXT-JAVU-V3X3-CYNK"
+key3 = "nexz-HXWU-M7AF-LENF-VA3J-KE3T-KMCY-NL73"
+key4 = "nexz-ELTN-3NK4-JMPF-MCKC-YKAP-NNV4-RMW9"
+key5 = "nexz-3W4X-3JHF-PC9Y-TWVF-MV7R-VNJH-VPFW"
